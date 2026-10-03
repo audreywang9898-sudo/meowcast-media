@@ -11,7 +11,9 @@
     "https://raw.githubusercontent.com/audreywang9898-sudo/meowcast-media/main/weekly/taipei/2026-10-04/run-37138008017-1/slide-1.jpg",
     "https://raw.githubusercontent.com/audreywang9898-sudo/meowcast-media/main/weekly/taipei/2026-10-04/run-37138008017-1/slide-2.jpg"
   ],
-  "children": [],
+  "children": [
+    "18144086773528650"
+  ],
   "run_id": "37138008017",
   "prepared_at": "2026-10-03T16:46:18+00:00"
 }

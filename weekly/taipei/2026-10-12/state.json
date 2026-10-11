@@ -5,7 +5,7 @@
   "week_end": "2026-10-18",
   "slot": "weekly-0800",
   "ig_user_id": "17841415859478155",
-  "status": "prepared",
+  "status": "publishing",
   "caption": "台北天氣貓｜下週七天喵報\n2026-10-12 – 2026-10-18\n你排下週行程，我排七天午睡。先看看天空有沒有別的安排。🐱\n\n週一 10-12：晴時多雲，最高 28°C／最低 20°C，每日最高降雨機率 0%。\n週二 10-13：陰天，最高 30°C／最低 19°C，每日最高降雨機率 0%。\n週三 10-14：毛毛雨，最高 29°C／最低 20°C，每日最高降雨機率 6%。\n週四 10-15：毛毛雨，最高 29°C／最低 21°C，每日最高降雨機率 12%。\n週五 10-16：陰天，最高 33°C／最低 22°C，每日最高降雨機率 10%。\n週六 10-17：晴時多雲，最高 32°C／最低 25°C，每日最高降雨機率 4%。\n週日 10-18：晴時多雲，最高 33°C／最低 24°C，每日最高降雨機率 8%。\n\n雨傘值班表：各天最高降雨機率均低於 50%；仍不保證無雨。\n出遊候選日：週一降雨機率相對最低（0%）。先列候選，出門前再確認。\n衣櫃備忘錄：全週最高 33°C、最低 19°C。穿搭看每日預報；貓的毛外套不外借。\n\n越後面的日期變動可能越大，出門前請看每日喵報。\n喜歡這隻愛碎念的天氣貓，就幫我點個愛心 ❤️、追蹤台北天氣貓！每天早晚一起看天氣，先問貓再出門。🐾\n資料：Open-Meteo｜取得時間 2026-10-11T09:19+08:00\n\n— English pawcast —\nTaipei Meowcast | Next-week pawcast\n2026-10-12 – 2026-10-18\nYour week has plans. Mine has seven naps. Let's check the sky first. 🐱\n\nMon 10-12: Partly cloudy, high 28°C / low 20°C, peak rain chance 0%.\nTue 10-13: Overcast, high 30°C / low 19°C, peak rain chance 0%.\nWed 10-14: Drizzle, high 29°C / low 20°C, peak rain chance 6%.\nThu 10-15: Drizzle, high 29°C / low 21°C, peak rain chance 12%.\nFri 10-16: Overcast, high 33°C / low 22°C, peak rain chance 10%.\nSat 10-17: Partly cloudy, high 32°C / low 25°C, peak rain chance 4%.\nSun 10-18: Partly cloudy, high 33°C / low 24°C, peak rain chance 8%.\n\nBrolly roster: Daily peak rain chances stay below 50%. That is not a dry-weather guarantee.\nOutdoor shortlist: Mon has the lowest rain chance (0%). A candidate, not a promise; check again before heading out.\nWardrobe memo: Weekly high 33°C; weekly low 19°C. Check each day's forecast. My fur coat is not available to borrow.\n\nLater dates may change more. Check the daily pawcast before heading out.\nEnjoy the pawcast? Tap the heart ❤️ and follow for weather with cat attitude every morning and evening. 🐾\n\nSource: Open-Meteo | Retrieved: 2026-10-11T09:19+08:00\n#TaipeiCat #TaipeiMeowcast #TaipeiWeather #WeatherCat #Taipei101 #Taipei #Taiwan #台北天氣 #台北生活 #WeeklyWeather",
   "image_urls": [
     "https://raw.githubusercontent.com/audreywang9898-sudo/meowcast-media/main/weekly/taipei/2026-10-11/run-38101381227-1/slide-1.jpg",
@@ -18,5 +18,6 @@
   "previous_publications": [],
   "run_id": "38101381227",
   "prepared_at": "2026-10-11T01:19:45+00:00",
-  "container_id": "18144911059528650"
+  "container_id": "18144911059528650",
+  "attempted_at": "2026-10-11T01:20:01+00:00"
 }

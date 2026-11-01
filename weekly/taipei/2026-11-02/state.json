@@ -5,7 +5,7 @@
   "week_end": "2026-11-08",
   "slot": "weekly-0800",
   "ig_user_id": "17841415859478155",
-  "status": "prepared",
+  "status": "publishing",
   "caption": "台北天氣貓｜下週七天喵報\n2026-11-02 – 2026-11-08\n你排下週行程，我排七天午睡。先看看天空有沒有別的安排。🐱\n\n週一 11-02：毛毛雨，最高 29°C／最低 22°C，每日最高降雨機率 63%。\n週二 11-03：陰天，最高 27°C／最低 22°C，每日最高降雨機率 4%。\n週三 11-04：陰天，最高 30°C／最低 21°C，每日最高降雨機率 4%。\n週四 11-05：毛毛雨，最高 30°C／最低 21°C，每日最高降雨機率 4%。\n週五 11-06：陰天，最高 26°C／最低 23°C，每日最高降雨機率 24%。\n週六 11-07：毛毛雨，最高 27°C／最低 21°C，每日最高降雨機率 29%。\n週日 11-08：毛毛雨，最高 25°C／最低 21°C，每日最高降雨機率 25%。\n\n雨傘值班表：週一降雨機率達 50% 以上，記得帶傘。\n出遊候選日：週二降雨機率相對最低（4%）。先列候選，出門前再確認。\n衣櫃備忘錄：全週最高 30°C、最低 21°C。穿搭看每日預報；貓的毛外套不外借。\n\n越後面的日期變動可能越大，出門前請看每日喵報。\n喜歡這隻愛碎念的天氣貓，就幫我點個愛心 ❤️、追蹤台北天氣貓！每天早晚一起看天氣，先問貓再出門。🐾\n資料：Open-Meteo｜取得時間 2026-11-01T09:45+08:00\n\n— English pawcast —\nTaipei Meowcast | Next-week pawcast\n2026-11-02 – 2026-11-08\nYour week has plans. Mine has seven naps. Let's check the sky first. 🐱\n\nMon 11-02: Drizzle, high 29°C / low 22°C, peak rain chance 63%.\nTue 11-03: Overcast, high 27°C / low 22°C, peak rain chance 4%.\nWed 11-04: Overcast, high 30°C / low 21°C, peak rain chance 4%.\nThu 11-05: Drizzle, high 30°C / low 21°C, peak rain chance 4%.\nFri 11-06: Overcast, high 26°C / low 23°C, peak rain chance 24%.\nSat 11-07: Drizzle, high 27°C / low 21°C, peak rain chance 29%.\nSun 11-08: Drizzle, high 25°C / low 21°C, peak rain chance 25%.\n\nBrolly roster: Mon: rain chance reaches 50% or more. Pack a brolly.\nOutdoor shortlist: Tue has the lowest rain chance (4%). A candidate, not a promise; check again before heading out.\nWardrobe memo: Weekly high 30°C; weekly low 21°C. Check each day's forecast. My fur coat is not available to borrow.\n\nLater dates may change more. Check the daily pawcast before heading out.\nEnjoy the pawcast? Tap the heart ❤️ and follow for weather with cat attitude every morning and evening. 🐾\n\nSource: Open-Meteo | Retrieved: 2026-11-01T09:45+08:00\n#TaipeiCat #TaipeiMeowcast #TaipeiWeather #WeatherCat #Taipei101 #Taipei #Taiwan #台北天氣 #台北生活 #WeeklyWeather",
   "image_urls": [
     "https://raw.githubusercontent.com/audreywang9898-sudo/meowcast-media/main/weekly/taipei/2026-11-01/run-41262354126-1/slide-1.jpg",
@@ -18,5 +18,6 @@
   "previous_publications": [],
   "run_id": "41262354126",
   "prepared_at": "2026-11-01T01:45:58+00:00",
-  "container_id": "18147641992528650"
+  "container_id": "18147641992528650",
+  "attempted_at": "2026-11-01T01:46:11+00:00"
 }

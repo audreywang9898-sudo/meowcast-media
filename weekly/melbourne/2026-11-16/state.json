@@ -5,7 +5,7 @@
   "week_end": "2026-11-22",
   "slot": "weekly-0800",
   "ig_user_id": "28554998274193239",
-  "status": "prepared",
+  "status": "publishing",
   "caption": "Melbourne Meowcast | Next-week pawcast\n2026-11-16 – 2026-11-22\nYour week has plans. Mine has seven naps. Let's check the sky first. 🐱\n\nMon 11-16: Drizzle, high 14°C / low 10°C, peak rain chance 61%.\nTue 11-17: Overcast, high 16°C / low 7°C, peak rain chance 2%.\nWed 11-18: Overcast, high 19°C / low 11°C, peak rain chance 6%.\nThu 11-19: Fog, high 24°C / low 14°C, peak rain chance 31%.\nFri 11-20: Thunderstorms, high 29°C / low 16°C, peak rain chance 77%.\nSat 11-21: Drizzle, high 23°C / low 16°C, peak rain chance 63%.\nSun 11-22: Drizzle, high 29°C / low 14°C, peak rain chance 67%.\n\nBrolly roster: Mon, Fri, Sat, Sun: rain chance reaches 50% or more. Pack a brolly.\nOutdoor shortlist: Tue has the lowest rain chance (2%). A candidate, not a promise; check again before heading out.\nWardrobe memo: Weekly high 29°C; weekly low 7°C. Check each day's forecast. My fur coat is not available to borrow.\n\nLater dates may change more. Check the daily pawcast before heading out.\nEnjoy the pawcast? Tap the heart ❤️ and follow for weather with cat attitude every morning and evening. 🐾\n\nSource: Open-Meteo | Retrieved: 2026-11-15T11:59+11:00\n#MelbourneCat #MelbourneMeowcast #MelbourneWeather #WeatherCat #Melbourne #Victoria #Australia #WeeklyWeather",
   "image_urls": [
     "https://raw.githubusercontent.com/audreywang9898-sudo/meowcast-media/main/weekly/melbourne/2026-11-15/run-43660764385-1/slide-1.jpg",
@@ -18,5 +18,6 @@
   "previous_publications": [],
   "run_id": "43660764385",
   "prepared_at": "2026-11-15T01:00:07+00:00",
-  "container_id": "18134935372844582"
+  "container_id": "18134935372844582",
+  "attempted_at": "2026-11-15T01:00:22+00:00"
 }
